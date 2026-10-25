@@ -1,4 +1,6 @@
-ID,title,author_ID,createdAt,createdBy,modifiedAt,modifiedBy
-24552025-b390-48cf-a25e-4b89a8883d45,title-24552025,24017814-6d23-45b2-8bee-6981eaec0b43,2016-10-03T00:00:00.000Z,createdBy.em8gp@example.com,2009-08-03T00:00:00.000Z,modifiedBy.em8gp@example.net
-24552026-13b7-4fb1-8a3c-2779b115f265,title-24552026,24017814-6d23-45b2-8bee-6981eaec0b43,2011-08-16T00:00:00.000Z,createdBy.em8gq@example.com,2018-05-20T00:00:00.000Z,modifiedBy.em8gq@example.com
-24552027-3fca-42ae-b9a1-56cb7809ed0d,title-24552027,24017814-6d23-45b2-8bee-6981eaec0b43,2015-12-13T00:00:00.000Z,createdBy.em8gr@example.net,2006-02-20T00:00:00.000Z,modifiedBy.em8gr@example.com
+ID,title,author_ID,genre,publishedAt,pages,price,createdAt,createdBy,modifiedAt,modifiedBy
+21150801-31e2-4438-8f2c-5d0437274d02,title-21150801,65144764-d2b8-4ed7-9989-2f4067ad754c,genre-21150801,2022-10-19,56,1975875.37,2023-06-03T00:00:00.000Z,createdBy.clc29@example.com,2001-08-06T00:00:00.000Z,modifiedBy.clc29@example.net
+21150802-46ce-4254-94f6-c47ec42f6c19,title-21150802,65144764-d2b8-4ed7-9989-2f4067ad754c,genre-21150802,2006-04-08,69,5990787.51,2001-11-26T00:00:00.000Z,createdBy.clc2a@example.org,2015-04-13T00:00:00.000Z,modifiedBy.clc2a@example.com
+21150803-2317-4bc4-ac32-e6cf97b5f37f,title-21150803,65144764-d2b8-4ed7-9989-2f4067ad754c,genre-21150803,2009-05-16,54,8782449.92,2017-09-28T00:00:00.000Z,createdBy.clc2b@example.com,2020-10-14T00:00:00.000Z,modifiedBy.clc2b@example.com
+21150804-09fc-4f0d-826d-4850b13b12b6,title-21150804,65144764-d2b8-4ed7-9989-2f4067ad754c,genre-21150804,2023-06-13,62,6789514.91,2008-08-31T00:00:00.000Z,createdBy.clc2c@example.org,2013-09-26T00:00:00.000Z,modifiedBy.clc2c@example.com
+21150805-df39-41f9-8ab0-15d265cebc71,title-21150805,65144764-d2b8-4ed7-9989-2f4067ad754c,genre-21150805,2004-04-22,38,5292981.03,2010-11-14T00:00:00.000Z,createdBy.clc2d@example.com,2020-09-04T00:00:00.000Z,modifiedBy.clc2d@example.net
